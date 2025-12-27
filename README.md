@@ -1,2 +1,2 @@
 # pandas-mini-projects
-My first pandas mini projects for practice. I am going to analyze the online retail dataset to extact usefull info that can be used later on.
+My first pandas mini projects for practice. I am going to analyze the online retail dataset to under stand customer purchasing behavior, Identify the top selling products and countries and extract insights that can support or help in business decisions.
