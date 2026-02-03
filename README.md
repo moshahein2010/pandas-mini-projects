@@ -1,2 +1,11 @@
-# pandas-mini-projects
-My first pandas mini projects for practice. I am going to analyze the online retail dataset to under stand customer purchasing behavior, Identify the top selling products and countries and extract insights that can support or help in business decisions.
+# Pandas Mini Projects
+
+This repository contains small Pandas projects created for practice
+and skill-building.
+
+## Online Retail Analysis
+
+**Description:**  
+My first Pandas mini project. This project analyzes the Online Retail dataset
+to understand customer purchasing behavior, identify top-selling products
+and countries, and extract insights that can support business decisions.
